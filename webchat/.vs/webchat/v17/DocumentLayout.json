@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\services\\classes\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\services\\classes\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\services\\classes\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\services\\classes\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\services\\classes\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\services\\classes\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\services\\classes\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\services\\classes\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\services\\interfaces\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\services\\interfaces\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\services\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\services\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|c:\\users\\mintu kumar\\downloads\\webchat (1)\\webchat\\webchat\\webchat\\migrations\\20250315042725_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85C2D48-73A3-4B55-94CC-221CB064FA47}|webchat\\webchat.csproj|solutionrelative:webchat\\migrations\\20250315042725_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Services\\Classes\\UserService.cs",
+              "RelativeDocumentMoniker": "webchat\\Services\\Classes\\UserService.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Services\\Classes\\UserService.cs",
+              "RelativeToolTip": "webchat\\Services\\Classes\\UserService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAjwCsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:48:46.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "webchat\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Controllers\\UserController.cs",
+              "RelativeToolTip": "webchat\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:15:09.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "webchat\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "webchat\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:39:10.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "webchat\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Models\\Message.cs",
+              "RelativeToolTip": "webchat\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:09:16.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Services\\Classes\\AccountService.cs",
+              "RelativeDocumentMoniker": "webchat\\Services\\Classes\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Services\\Classes\\AccountService.cs",
+              "RelativeToolTip": "webchat\\Services\\Classes\\AccountService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAIwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:23:02.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Services\\Classes\\MessageService.cs",
+              "RelativeDocumentMoniker": "webchat\\Services\\Classes\\MessageService.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Services\\Classes\\MessageService.cs",
+              "RelativeToolTip": "webchat\\Services\\Classes\\MessageService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:27:17.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Services\\Classes\\ChatService.cs",
+              "RelativeDocumentMoniker": "webchat\\Services\\Classes\\ChatService.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Services\\Classes\\ChatService.cs",
+              "RelativeToolTip": "webchat\\Services\\Classes\\ChatService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:19:31.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "webchat\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "webchat\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:17:16.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Program.cs",
+              "RelativeDocumentMoniker": "webchat\\Program.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Program.cs",
+              "RelativeToolTip": "webchat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:43:57.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250315042725_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Migrations\\20250315042725_InitialCreate.cs",
+              "RelativeDocumentMoniker": "webchat\\Migrations\\20250315042725_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Migrations\\20250315042725_InitialCreate.cs",
+              "RelativeToolTip": "webchat\\Migrations\\20250315042725_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:27:25.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "webchat\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "webchat\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:46:10.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "webchat\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "webchat\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:01:33.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\appsettings.json",
+              "RelativeDocumentMoniker": "webchat\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\appsettings.json",
+              "RelativeToolTip": "webchat\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T09:22:27.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Services\\Interfaces\\IMessageService.cs",
+              "RelativeDocumentMoniker": "webchat\\Services\\Interfaces\\IMessageService.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Services\\Interfaces\\IMessageService.cs",
+              "RelativeToolTip": "webchat\\Services\\Interfaces\\IMessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:21:26.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Services\\Interfaces\\IChatService.cs",
+              "RelativeDocumentMoniker": "webchat\\Services\\Interfaces\\IChatService.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Services\\Interfaces\\IChatService.cs",
+              "RelativeToolTip": "webchat\\Services\\Interfaces\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:17:59.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "webchat\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "webchat\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:15:15.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Models\\Chat.cs",
+              "RelativeDocumentMoniker": "webchat\\Models\\Chat.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Models\\Chat.cs",
+              "RelativeToolTip": "webchat\\Models\\Chat.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:48:58.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "webchat\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\Mintu Kumar\\Downloads\\webchat (1)\\webchat\\webchat\\webchat\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "webchat\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:00:25.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
